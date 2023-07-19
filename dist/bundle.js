@@ -116,7 +116,7 @@ eval("\n\n/* istanbul ignore next  */\nfunction styleTagTransform(css, styleElem
   \*****************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\nconst component = () => {\n  const element = document.createElement('div');\n\n  element.textContent = 'Hello! This is webpack project setup';\n\n  return element;\n};\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (component);\n\n\n//# sourceURL=webpack://webpack-project-setup/./src/helloWebpack.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\nconst component = () => {\n  const element = document.createElement('div');\n\n  element.textContent = 'Hello! This is webpack project setup';\n  return element;\n};\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (component);\n\n\n//# sourceURL=webpack://webpack-project-setup/./src/helloWebpack.js?");
 
 /***/ }),
 
